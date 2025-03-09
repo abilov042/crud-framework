@@ -1,0 +1,17 @@
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Entity.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Entity.pdb
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.csproj.Up2Date
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Core.dll
+/home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Core.pdb
