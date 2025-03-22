@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IkHrORqRoO+pcIxAktw4hVqTbRFvBQO4sKgCy++Nk8TAAZfdr6973iAw4wuJIrANjBBm/SVEqWuVZClsNuMS8g==",
+  "dgSpecHash": "2q6Uv9DUrw1RO+tZ7s0N82FCwStfK7itzpQ1pSK4y9tJNXhKKfnuNM0qSzJPQp0++0Gncwez9FSq5M2Hyv/Olg==",
   "success": true,
   "projectFilePath": "/home/abilov/RiderProjects/Rest-api/Service/Service.csproj",
   "expectedPackageFiles": [
+    "/home/abilov/.nuget/packages/autofac/8.2.0/autofac.8.2.0.nupkg.sha512",
     "/home/abilov/.nuget/packages/microsoft.entityframeworkcore/8.0.11/microsoft.entityframeworkcore.8.0.11.nupkg.sha512",
     "/home/abilov/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.11/microsoft.entityframeworkcore.abstractions.8.0.11.nupkg.sha512",
     "/home/abilov/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.11/microsoft.entityframeworkcore.analyzers.8.0.11.nupkg.sha512",
@@ -18,7 +19,8 @@
     "/home/abilov/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
     "/home/abilov/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/abilov/.nuget/packages/npgsql/8.0.6/npgsql.8.0.6.nupkg.sha512",
-    "/home/abilov/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512"
+    "/home/abilov/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.11/npgsql.entityframeworkcore.postgresql.8.0.11.nupkg.sha512",
+    "/home/abilov/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

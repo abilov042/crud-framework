@@ -7,18 +7,11 @@ using Service.Concretes;
 namespace WebApi.Controller;
 
 [Route("/v1/products")]
-public class ProductsController : ControllerBase
+public class ProductsController(IProductService productService) : ControllerBase
 {
-    private readonly IProductService _productService;
-
-    public ProductsController(IProductService productService)
-    {
-        _productService = productService;
-    }
-
     [HttpGet]
     public List<Product> GetAll()
     {
-        return _productService.GetAll();
+        return productService.GetAll();
     }
 }

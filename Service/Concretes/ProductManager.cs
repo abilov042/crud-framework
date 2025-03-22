@@ -6,21 +6,15 @@ using Service.Abstracts;
 
 namespace Service.Concretes;
 
-public class ProductManager:IProductService
+public class ProductManager(IProductDal productDal):IProductService
 {
-    private readonly IProductDal _productDal;
-
-    public ProductManager(IProductDal productDal)
-    {
-        _productDal = productDal;
-    }
     public List<Product> GetAll()
     {
-        return _productDal.GetAll();
+        return productDal.GetAll();
     }
 
     public List<ProductDetailsDto> GetProductDetails()
     {
-        return _productDal.GetProductDetailsDto();
+        return productDal.GetProductDetailsDto();
     }
 }

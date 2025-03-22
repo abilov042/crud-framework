@@ -10,3 +10,4 @@
 /home/abilov/RiderProjects/Rest-api/Core/obj/Debug/net8.0/refint/Core.dll
 /home/abilov/RiderProjects/Rest-api/Core/obj/Debug/net8.0/Core.pdb
 /home/abilov/RiderProjects/Rest-api/Core/obj/Debug/net8.0/ref/Core.dll
+/home/abilov/RiderProjects/Rest-api/Core/obj/Debug/net8.0/Core.sourcelink.json

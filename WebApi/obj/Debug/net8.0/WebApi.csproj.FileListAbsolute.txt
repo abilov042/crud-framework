@@ -50,3 +50,6 @@
 /home/abilov/RiderProjects/Rest-api/WebApi/bin/Debug/net8.0/Core.pdb
 /home/abilov/RiderProjects/Rest-api/WebApi/bin/Debug/net8.0/DataAccess.pdb
 /home/abilov/RiderProjects/Rest-api/WebApi/bin/Debug/net8.0/Entity.pdb
+/home/abilov/RiderProjects/Rest-api/WebApi/obj/Debug/net8.0/WebApi.sourcelink.json
+/home/abilov/RiderProjects/Rest-api/WebApi/bin/Debug/net8.0/Autofac.dll
+/home/abilov/RiderProjects/Rest-api/WebApi/bin/Debug/net8.0/Autofac.Extensions.DependencyInjection.dll

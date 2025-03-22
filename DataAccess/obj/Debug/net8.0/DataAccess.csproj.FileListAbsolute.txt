@@ -15,3 +15,4 @@
 /home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll
 /home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Core.dll
 /home/abilov/RiderProjects/Rest-api/DataAccess/bin/Debug/net8.0/Core.pdb
+/home/abilov/RiderProjects/Rest-api/DataAccess/obj/Debug/net8.0/DataAccess.sourcelink.json
